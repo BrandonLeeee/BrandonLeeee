@@ -3,8 +3,8 @@
 Welcome to my GitHub repository! 👋 I'm Brandon Lee, and I'm currently diving into React, a powerful JavaScript library for building user interfaces.
 
 ## About Me 🧑‍💻
-🌱 Learning: React and modern front-end development practices to build dynamic and responsive web apps!
-✨ Goals: Create innovative projects, master advanced React concepts, and contribute to open-source projects.
+- 🌱 Learning: React and modern front-end development practices to build dynamic and responsive web apps!
+- ✨ Goals: Create innovative projects, master advanced React concepts, and contribute to open-source projects.
 
 ## Projects 🚀
 [E-commerce](https://techlee.vercel.app/)
