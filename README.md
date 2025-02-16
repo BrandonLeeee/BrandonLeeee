@@ -7,6 +7,9 @@ Welcome to my GitHub repository! 👋 I'm Brandon Lee, and I'm currently diving 
 - ✨ Goals: Create innovative projects, master advanced React concepts, and contribute to open-source projects.
 
 ## Projects 🚀
+
+[AusBrazil Jobs](https://ausbrazil-jobs.vercel.app/jobs)
+
 [E-commerce](https://techlee.vercel.app/)
 
 [Rick and Morty App](https://github.com/BrandonLeeee/rickandmorty/tree/master)
