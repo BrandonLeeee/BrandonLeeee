@@ -8,7 +8,7 @@ Welcome to my GitHub repository! 👋 I'm Brandon Lee, and I'm currently diving 
 
 ## Projects 🚀
 
-[AusBrazil Jobs](https://ausbrazil-jobs.vercel.app)
+[Aus Jobs](https://ausjobs.vercel.app)
 
 [E-commerce](https://techlee.vercel.app/)
 
